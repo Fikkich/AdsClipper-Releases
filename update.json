@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "required": false,
+  "title": "Доступно обновление AdsClipper 1.0.1",
+  "notes": [
+    "Добавлены автообновление"
+  ],
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.1/AdsClipper_Setup_1.0.1.exe",
+  "sha256": "56eb073c395cc8db48537ead8de728ed40e4427cd347af840717faf41693bd5a",
+  "installer_args": [
+    "/VERYSILENT",
+    "/SUPPRESSMSGBOXES",
+    "/NORESTART"
+  ],
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.1",
+  "published_at": "2026-09-04T20:52:19.084055+00:00"
+}
