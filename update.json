@@ -1,17 +1,17 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "required": false,
-  "title": "Доступно обновление AdsClipper 1.0.2",
+  "title": "Доступно обновление AdsClipper 1.0.3",
   "notes": [
-    "баг фикс"
+    "Добавлено отображение даты публикации ролика, исправленния отображение ссылки в статистике"
   ],
-  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.2/AdsClipper_Setup_1.0.2.exe",
-  "sha256": "0bc7fc0f385c34f1b9efcfa5ee4ffcb67bbbfe94e57f1a9322cfe3f719d8a66d",
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.3/AdsClipper_Setup_1.0.3.exe",
+  "sha256": "39f59cf7ead711a6e945f272df8ca1ab82b8e3c8595b2ff93ed4b17bc3424213",
   "installer_args": [
     "/VERYSILENT",
     "/SUPPRESSMSGBOXES",
     "/NORESTART"
   ],
-  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.2",
-  "published_at": "2026-09-05T12:14:55.578104+00:00"
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.3",
+  "published_at": "2026-09-05T16:11:06.904450+00:00"
 }
