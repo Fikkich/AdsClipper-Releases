@@ -1,17 +1,18 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "required": false,
-  "title": "Доступно обновление AdsClipper 1.0.4",
+  "title": "Доступно обновление AdsClipper 1.0.5",
   "notes": [
-    "Фикс загрузки ffmpeg"
+    "Возможность добавлять несколько json для аунтентификации",
+    "Добавлено нормальное окно при достижении лимита видео в сутки"
   ],
-  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.4/AdsClipper_Setup_1.0.4.exe",
-  "sha256": "d36f5e233e144edb5a461d06275679143ac4d83c74c68fb0740818fc62164e63",
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.5/AdsClipper_Setup_1.0.5.exe",
+  "sha256": "8ba2d64afcbe94b64c7d1c3d66c3d7bb71420747b86b8ef31a01f10e94ebef9c",
   "installer_args": [
     "/VERYSILENT",
     "/SUPPRESSMSGBOXES",
     "/NORESTART"
   ],
-  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.4",
-  "published_at": "2026-09-05T16:42:34.832532+00:00"
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.5",
+  "published_at": "2026-09-06T09:30:51.061009+00:00"
 }
