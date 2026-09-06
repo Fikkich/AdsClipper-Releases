@@ -1,18 +1,17 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "required": false,
-  "title": "Доступно обновление AdsClipper 1.0.6",
+  "title": "Доступно обновление AdsClipper 1.0.7",
   "notes": [
-    "Добавлена возмонжость публикации роликов в тикток",
-    "При аварийном завершении работы программы, при следующем входе публикация роликов сохраняется с того места где остановилась"
+    "Добавлено автоматическое исключение роликов из статистики загруженых более 7 дней назад"
   ],
-  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.6/AdsClipper_Setup_1.0.6.exe",
-  "sha256": "0aa3cd67f126b4a0a0b3ff2b2180543ba0ad668856370428105bfdb24c708cc8",
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.7/AdsClipper_Setup_1.0.7.exe",
+  "sha256": "5bea47030f9a1606925d8f2bb6ddcf350676bf7d413fdaeb29419d44a32bc9a4",
   "installer_args": [
     "/VERYSILENT",
     "/SUPPRESSMSGBOXES",
     "/NORESTART"
   ],
-  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.6",
-  "published_at": "2026-09-06T10:20:26.815894+00:00"
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.7",
+  "published_at": "2026-09-06T10:39:15.248915+00:00"
 }
