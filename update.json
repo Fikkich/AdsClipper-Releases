@@ -1,17 +1,18 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "required": false,
-  "title": "Доступно обновление AdsClipper 1.0.7",
+  "title": "Доступно обновление AdsClipper 1.0.8",
   "notes": [
-    "Добавлено автоматическое исключение роликов из статистики загруженых более 7 дней назад"
+    "Добавлен атвозалив в инстаграм рилс",
+    "Добавлена возможность скрывать ненужные блоки настроек"
   ],
-  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.7/AdsClipper_Setup_1.0.7.exe",
-  "sha256": "5bea47030f9a1606925d8f2bb6ddcf350676bf7d413fdaeb29419d44a32bc9a4",
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.8/AdsClipper_Setup_1.0.8.exe",
+  "sha256": "d7a440cdad4afbd87b98841f4c86e6d72c5e63e308d2f4962da5c9cf87693809",
   "installer_args": [
     "/VERYSILENT",
     "/SUPPRESSMSGBOXES",
     "/NORESTART"
   ],
-  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.7",
-  "published_at": "2026-09-06T10:39:15.248915+00:00"
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.8",
+  "published_at": "2026-09-07T17:14:17.499754+00:00"
 }
