@@ -1,17 +1,17 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "required": false,
-  "title": "Доступно обновление AdsClipper 1.1.0",
+  "title": "Доступно обновление AdsClipper 1.1.1",
   "notes": [
-    "Улучшена статистика для рилс"
+    "Добавлено автоназвание видео как с шортс"
   ],
-  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.1.0/AdsClipper_Setup_1.1.0.exe",
-  "sha256": "48a0f29701df3e224074cf3c6e4980d3063954bf5968da271de37f72a6e706fe",
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.1.1/AdsClipper_Setup_1.1.1.exe",
+  "sha256": "6ad9167ff283d8666b1f083b4bc4c6af4b0b06b74789b96a3c87ebf6784665af",
   "installer_args": [
     "/VERYSILENT",
     "/SUPPRESSMSGBOXES",
     "/NORESTART"
   ],
-  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.1.0",
-  "published_at": "2026-09-08T11:58:13.098598+00:00"
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.1.1",
+  "published_at": "2026-09-08T12:46:01.962913+00:00"
 }
