@@ -1,19 +1,17 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "required": false,
-  "title": "Доступно обновление AdsClipper 1.0.9",
+  "title": "Доступно обновление AdsClipper 1.1.0",
   "notes": [
-    "Исправлен формат создаваемых видео ( теперь коректная публикация в инст )",
-    "Добавлен гайд на подключение инстаграм аккаунта",
-    "Мелкие улучшения"
+    "Улучшена статистика для рилс"
   ],
-  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.0.9/AdsClipper_Setup_1.0.9.exe",
-  "sha256": "c157abda4b42ea633d0771089175fb137c23ef71becfb24b252ce025bbcc4c62",
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.1.0/AdsClipper_Setup_1.1.0.exe",
+  "sha256": "48a0f29701df3e224074cf3c6e4980d3063954bf5968da271de37f72a6e706fe",
   "installer_args": [
     "/VERYSILENT",
     "/SUPPRESSMSGBOXES",
     "/NORESTART"
   ],
-  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.0.9",
-  "published_at": "2026-09-07T18:57:24.998960+00:00"
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.1.0",
+  "published_at": "2026-09-08T11:58:13.098598+00:00"
 }
