@@ -1,17 +1,17 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "required": false,
-  "title": "Доступно обновление AdsClipper 1.1.2",
+  "title": "Доступно обновление AdsClipper 1.1.3",
   "notes": [
-    "Добавлена возможность удалять добавленные ютуб каналы"
+    "Добавлена шкала, отображающая, сколько видео из запланированных уже завершено."
   ],
-  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.1.2/AdsClipper_Setup_1.1.2.exe",
-  "sha256": "030b7a74fbf05f915cb9ce9465b8e56e170cccf809d6ca89400f7b0207bfe9f1",
+  "download_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/download/v1.1.3/AdsClipper_Setup_1.1.3.exe",
+  "sha256": "17c522e4d66d8d8db6acd4806ec9758d84f2953d19117471ddb4469213e20f05",
   "installer_args": [
     "/VERYSILENT",
     "/SUPPRESSMSGBOXES",
     "/NORESTART"
   ],
-  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.1.2",
-  "published_at": "2026-09-09T16:42:48.740645+00:00"
+  "release_url": "https://github.com/Fikkich/AdsClipper-Releases/releases/tag/v1.1.3",
+  "published_at": "2026-09-11T22:26:17.978824+00:00"
 }
